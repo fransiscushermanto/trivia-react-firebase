@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This is simple trivia demo project
 
-Try demo : [https://5f46a263a57c7185f467f5d3--brave-fermat-511c7f.netlify.app/](https://5f46a263a57c7185f467f5d3--brave-fermat-511c7f.netlify.app/)
+Try demo : [https://react-triviaz.netlify.app/](https://react-triviaz.netlify.app/)
